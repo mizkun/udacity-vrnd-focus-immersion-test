@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E04D83C4-F7D0-FEB6-EE6F-DDF092FF4D6F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ObjectMenuManager.cs">
+    <Files>
+      <File FileName="Assets/HandControllerInput.cs" Line="109" Column="69" />
+      <File FileName="Assets/SteamVR/Scripts/SteamVR_UpdatePoses.cs" Line="13" Column="17" />
+      <File FileName="Assets/HandInteraction.cs" Line="67" Column="27" />
+      <File FileName="Assets/ObjectMenuManager.cs" Line="42" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.udacity-vrnd-focus-immersion-test PreferredExecutionTarget="Unity.Editor" />
+</Properties>

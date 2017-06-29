@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udacity-vrnd-focus-immersion-test", "udacity-vrnd-focus-immersion-test.csproj", "{E04D83C4-F7D0-FEB6-EE6F-DDF092FF4D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udacity-vrnd-focus-immersion-test.Editor", "udacity-vrnd-focus-immersion-test.Editor.csproj", "{DB02DB71-18BA-2D6C-41E0-B0664B2F2BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E04D83C4-F7D0-FEB6-EE6F-DDF092FF4D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04D83C4-F7D0-FEB6-EE6F-DDF092FF4D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04D83C4-F7D0-FEB6-EE6F-DDF092FF4D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04D83C4-F7D0-FEB6-EE6F-DDF092FF4D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB02DB71-18BA-2D6C-41E0-B0664B2F2BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB02DB71-18BA-2D6C-41E0-B0664B2F2BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB02DB71-18BA-2D6C-41E0-B0664B2F2BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB02DB71-18BA-2D6C-41E0-B0664B2F2BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
